@@ -92,7 +92,7 @@ p {
   font-family: 'Zeyada', cursive; 
   font-size: 20px; 
   line-height: 1.2; 
-  color: rgb(138, 29, 29); 
+  color: #7A1830; 
   text-align: center; 
   user-select: none; 
   margin: 6px 0; 
@@ -130,10 +130,10 @@ p {
   align-items: center; 
   justify-content: center; 
   background: linear-gradient( 
-    135deg, 
-    #c8b6ff 25%, 
-    #e3c5f5 50%, 
-    #ffd6e7 125% 
+     110deg,
+  #c8b6ff 0%,
+  #d8c2f5 45%,
+  #f3cfe7 100%
   ); 
   transition: 
     opacity 0.8s ease, 
