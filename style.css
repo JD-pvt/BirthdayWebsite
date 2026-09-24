@@ -130,9 +130,9 @@ p {
   align-items: center; 
   justify-content: center; 
   background: linear-gradient( 
-       288deg,
-  #c8b6ff 10%,
-  #d8c2f5 20%,
+       110deg,
+  #c8b6ff 0%,
+  #d8c2f5 50%,
   #f3cfe7 100%
   ); 
   transition: 
